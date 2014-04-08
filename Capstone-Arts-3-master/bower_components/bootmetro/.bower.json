@@ -1,0 +1,15 @@
+{
+  "name": "bootmetro",
+  "homepage": "https://github.com/aozora/bootmetro",
+  "version": "0.9.0",
+  "_release": "0.9.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.9.0",
+    "commit": "c87b898192ba4b0433375eaba3eb721c2ab165c3"
+  },
+  "_source": "git://github.com/aozora/bootmetro.git",
+  "_target": "~0.9.0",
+  "_originalSource": "bootmetro",
+  "_direct": true
+}
